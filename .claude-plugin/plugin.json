@@ -11,6 +11,9 @@
   "repository": "https://github.com/yakovlevddd/marketcrew-mcp",
   "license": "MIT",
   "privacyPolicyUrl": "https://marketcrew.ai/privacy",
+  "termsOfServiceUrl": "https://marketcrew.ai/terms",
+  "supportUrl": "mailto:support@marketcrew.ai",
+  "documentationUrl": "https://github.com/yakovlevddd/marketcrew-mcp#readme",
   "keywords": [
     "stocks",
     "stock prices",
