@@ -86,6 +86,7 @@ Fair-use rate limits apply per client. Prices are delayed up to 15 minutes. Fore
 ## Links
 
 - Website: [marketcrew.ai](https://marketcrew.ai) · [all the ways to connect](https://marketcrew.ai/connect)
+- [Support](https://marketcrew.ai/support): support@marketcrew.ai
 - [Privacy policy](https://marketcrew.ai/privacy) · [Terms](https://marketcrew.ai/terms)
 - MCP Registry: `ai.marketcrew/market-data`
 
