@@ -1,0 +1,31 @@
+{
+  "name": "marketcrew",
+  "displayName": "MarketCrew — live market data & stock analysis",
+  "version": "1.0.0",
+  "description": "Stock prices, charts and technical analysis for 890+ US stocks, ETFs and crypto in Claude: RSI, MACD, moving averages, support and resistance, earnings dates, market breadth and sentiment, crypto context and market news. Read-only, no account or API key.",
+  "author": {
+    "name": "MarketCrew",
+    "url": "https://marketcrew.ai"
+  },
+  "homepage": "https://marketcrew.ai",
+  "repository": "https://github.com/yakovlevddd/marketcrew-mcp",
+  "license": "MIT",
+  "keywords": [
+    "stocks",
+    "stock prices",
+    "stock analysis",
+    "technical analysis",
+    "market data",
+    "ETF",
+    "crypto",
+    "bitcoin",
+    "RSI",
+    "MACD",
+    "support and resistance",
+    "S&P 500",
+    "earnings",
+    "market news",
+    "trading",
+    "investing"
+  ]
+}

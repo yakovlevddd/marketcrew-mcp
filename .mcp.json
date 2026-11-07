@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "marketcrew": {
+      "type": "http",
+      "url": "https://marketcrew.ai/mcp"
+    }
+  }
+}
