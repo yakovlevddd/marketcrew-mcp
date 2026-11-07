@@ -10,6 +10,7 @@
   "homepage": "https://marketcrew.ai",
   "repository": "https://github.com/yakovlevddd/marketcrew-mcp",
   "license": "MIT",
+  "privacyPolicyUrl": "https://marketcrew.ai/privacy",
   "keywords": [
     "stocks",
     "stock prices",
